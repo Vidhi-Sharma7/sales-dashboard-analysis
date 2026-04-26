@@ -1,4 +1,12 @@
 📊Sales & Profit Analysis Dashboard
+## Dashboard Preview
+
+### Overview (Dashboard)
+![Overview](Overview.png)
+
+### Detailed Analysis
+![Details](Details.png)
+
 📌 Project Overview
 
 This project analyzes sales data to uncover key insights related to revenue, profitability, and discount impact.
